@@ -1,0 +1,9 @@
+<LSHIFT>
+<RSHIFT>
+<LCTRL>
+<RCTRL>
+<LWIN>
+<RWIN>
+<LALT>
+<RALT>
+<MENU>
